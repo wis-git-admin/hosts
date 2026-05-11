@@ -905,20 +905,24 @@
 0.0.0.0 sniffies.com
 0.0.0.0 bsky.app
 
+
+
+
+
 # Academic Dishonesty
-0.0.0.0 .chegg.com
-0.0.0.0 .coursehero.com
-0.0.0.0 .brainly.com
-0.0.0.0 .studocu.com
-0.0.0.0 .studypool.com
-0.0.0.0 .oneclass.com
-0.0.0.0 .1daixie.com
-0.0.0.0 .12hoursessay.com
-0.0.0.0 .15writers.com
-0.0.0.0 .24houranswers.com
-0.0.0.0 .5staressays.com
-0.0.0.0 .99papers.com
-0.0.0.0 .100due.com
+.chegg.com
+.coursehero.com
+.brainly.com
+.studocu.com
+.studypool.com
+.oneclass.com
+.1daixie.com
+.12hoursessay.com
+.15writers.com
+.24houranswers.com
+.5staressays.com
+.99papers.com
+.100due.com
 .247assignmentcare.com
 .247contentwriter.com
 .360assignments.com
