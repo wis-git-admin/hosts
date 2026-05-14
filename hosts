@@ -152,6 +152,9 @@
 0.0.0.0 camsurf.com
 0.0.0.0 anon.chat
 
+# DNS over HTTPS (DoH)
+0.0.0.0 chrome.cloudflare-dns.com
+
 # Forums
 0.0.0.0 somethingAwful.com
 0.0.0.0 topix.com
