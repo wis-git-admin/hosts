@@ -1,9 +1,8 @@
-# Title: wis-git-admin/hosts extension social
-#
+# Title: wis-git-admin/hosts WIS_Block
 # This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
+# StevenBlack Unified hosts + fakenews + gambling + porn + social extensions with a dash of crowd sourcing via GitHub
 #
-# Date Created: 08 May 2026 11:48:20 (GMT+8)
+# Date Created: 14 May 2026 15:40:00 (GMT+8)
 # Number of unique domains: 44,617
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/wis-git-admin/hosts/master/hosts
@@ -14,4 +13,4 @@
 
 # Custom host records are listed here.
 
-# Updated: 14 May 2026 15:29:43 (GMT+8)
+# Updated: 14 May 2026 15:40:43 (GMT+8)
