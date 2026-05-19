@@ -2,8 +2,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # StevenBlack Unified hosts + fakenews + gambling + porn + social + Custom Block List
 #
-# Date Updated: 18 May 2026 08:05:00 (GMT+8)
-# Number of unique domains: 211,751
+# Date Updated: 19 May 2026 14:31 (GMT+8)
+# Number of unique domains: 211,749
 #
 # latest version: https://raw.githubusercontent.com/wis-git-admin/hosts/master/WIS_Block
 # Project home page: https://github.com/wis-git-admin/hosts
@@ -185149,7 +185149,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 edoona.com
 0.0.0.0 edu-games.org
 0.0.0.0 educandus.com.br
-0.0.0.0 educaplay.com
 0.0.0.0 educastudio.com
 0.0.0.0 education1.com.br
 0.0.0.0 educationalchess.com
@@ -202184,7 +202183,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 purpleblood.wtcsites.com
 0.0.0.0 purplelamp.com
 0.0.0.0 purplesensi.co.uk
-0.0.0.0 purposegames.com
 0.0.0.0 purrfectdate.co.uk
 0.0.0.0 pursglove.tripod.com
 0.0.0.0 pursuingtrivia.com
